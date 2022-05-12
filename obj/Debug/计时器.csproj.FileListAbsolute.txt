@@ -1,0 +1,14 @@
+D:\编程项目\计时器\计时器\obj\Debug\计时器.csproj.AssemblyReference.cache
+D:\编程项目\计时器\计时器\obj\Debug\计时器.计时器.resources
+D:\编程项目\计时器\计时器\obj\Debug\计时器.Properties.Resources.resources
+D:\编程项目\计时器\计时器\obj\Debug\计时器.计时器.zh-CN.resources
+D:\编程项目\计时器\计时器\obj\Debug\计时器.csproj.GenerateResource.cache
+D:\编程项目\计时器\计时器\obj\Debug\计时器.csproj.CoreCompileInputs.cache
+D:\编程项目\计时器\计时器\bin\Debug\计时器.exe.config
+D:\编程项目\计时器\计时器\bin\Debug\计时器.exe
+D:\编程项目\计时器\计时器\bin\Debug\计时器.pdb
+D:\编程项目\计时器\计时器\bin\Debug\zh-CN\计时器.resources.dll
+D:\编程项目\计时器\计时器\obj\Debug\zh-CN\计时器.resources.dll
+D:\编程项目\计时器\计时器\obj\Debug\计时器.exe
+D:\编程项目\计时器\计时器\obj\Debug\计时器.pdb
+D:\编程项目\计时器\计时器\obj\Debug\计时器.计时.resources

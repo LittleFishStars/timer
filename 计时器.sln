@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "定时器", "定时器.csproj", "{ACE9EF41-AFA3-474B-8FC8-4512D6A3043F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE9EF41-AFA3-474B-8FC8-4512D6A3043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE9EF41-AFA3-474B-8FC8-4512D6A3043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE9EF41-AFA3-474B-8FC8-4512D6A3043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE9EF41-AFA3-474B-8FC8-4512D6A3043F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FCAE79-9000-46C7-B07E-6506292EC9A9}
+	EndGlobalSection
+EndGlobal
